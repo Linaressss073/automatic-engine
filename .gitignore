@@ -1,0 +1,17 @@
+# Node / JS
+**/node_modules/
+**/.pnpm/
+**/.turbo/
+**/.next/
+**/dist/
+**/build/
+coverage/
+
+# Entornos / secretos
+
+.env.*
+!.env.example
+
+# SO / editores
+.DS_Store
+.vscode/
